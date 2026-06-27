@@ -1,1 +1,1 @@
-# estudart-raspbot2-distance-awerness
+# estudart-raspbot2-distance-awereness
